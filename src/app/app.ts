@@ -9,6 +9,6 @@ import { Saludo } from './saludo/saludo';
   styleUrls: ['./app.css']
 })
 export class AppComponent {
-  titulo: string = 'Mi Primera App en Angular';
+  titulo: string = 'Mi Primera App en Angular SUBO A github';
 }
 
